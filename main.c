@@ -3,6 +3,7 @@
 //
 //  Written by: Ali Abuzir, 11/06/2022
 //  System: macOs using Replit
+//  Course: CS 211 Fall 2022
 //
 //  Links to wordle dictionary words at:
 //    https://www.reddit.com/r/wordle/comments/s4tcw8/a_note_on_wordles_word_list/
